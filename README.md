@@ -1,3 +1,5 @@
-Python, Java, HTML, Lua 😏
+Python, Java, HTML, Lua 
 
-- oh yea and star my stuff when u use it -🙄
+### I made all my stuff by myself so when u use it STAR it 🙄
+
+
