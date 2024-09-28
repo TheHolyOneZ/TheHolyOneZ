@@ -1,8 +1,4 @@
-Python, Java, HTML
+# Join My New Discord Server: TheZ's Performance | https://discord.gg/zsGTqgnsmK
+The old server (https://discord.gg/d2jMBWy8WM) will no longer be maintained.
 
-### [I made all my stuff by myself so when u use it STAR it 🙄](https://discord.gg/d2jMBWy8WM)  Backup discord account name (me) theholyonez (1284210833869639680) TheZBackup
-## Backup Server: https://discord.gg/zsGTqgnsmK (join this server not the main server!)
-Discord Server (new): https://discord.gg/d2jMBWy8WM | TheZ's Performance **| out of service my discord account got banned for no reason |**
-discord got terminated not cool of the guy that did this for no reason ✌
-
-
+### **I also create scripts for you! If you need something programmed, feel free to ask me in my new Discord server. If it's within my abilities, I’ll gladly provide the script for free!**
