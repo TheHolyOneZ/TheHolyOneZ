@@ -4,7 +4,7 @@
 > - 💻 Free scripts and programming help.
 > - 📢 Project updates and tools.
 
-**[👉 Click Here to Join TheZ's Performance!]((https://discord.gg/U8sssc6xbv))**
+**[👉 Click Here to Join TheZ's AdminBot!](https://discord.gg/U8sssc6xbv)**
 > - 💻 Need AdminBot or help with server management?
 > - 📢 Stay updated on all AdminBot-related projects.
 
