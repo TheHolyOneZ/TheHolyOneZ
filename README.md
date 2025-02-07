@@ -19,6 +19,9 @@
 > - 💻 Need AdminBot or help with server management?
 > - 📢 Stay updated on all AdminBot-related projects.
 
+> - Video On how to request:
+>   
+>    - https://www.youtube.com/watch?v=uZbo6J__6N4
 
 - Server Requirements:
 >   
