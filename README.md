@@ -3,6 +3,8 @@
 **[👉 Click Here to Join TheZ's Performance!](https://discord.gg/zsGTqgnsmK)**
 > - 💻 Free scripts and programming help.
 > - 📢 Project updates and tools.
+> - If you get kicked out of my server it means you dont meet the requirements.
+> - 
 
 **[👉 Click Here to Join TheZ's AdminBot!](https://discord.gg/U8sssc6xbv)**
 > - 💻 Need AdminBot or help with server management?
