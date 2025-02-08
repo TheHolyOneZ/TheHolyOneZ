@@ -25,10 +25,10 @@
 
 - Server Requirements:
 >   
->   - • Account Age: 3 days
->   - • Profile Picture: Required
+>   - • Account Age: 1 days
+>   - • Profile Picture: Optional
 >   - • Verified Email: Required
->   - • Verified Phone: Required
+>   - • Verified Phone: Optional
 >   -   • 2FA Enabled: Optional
 >
 
