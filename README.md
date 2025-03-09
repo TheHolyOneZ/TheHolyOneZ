@@ -1,5 +1,9 @@
 # 🎉 Join My Discord Server: TheZ's Performance
 
+**Website: https://zygnalbot.com**
+> - changelogs
+> - zygnal Download
+
 **[👉 Click Here to Join TheZ's Performance!](https://discord.gg/zsGTqgnsmK)**
 > - 💻 Free scripts and programming help.
 > - 📢 Project updates and tools.
