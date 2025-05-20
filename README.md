@@ -16,10 +16,8 @@
 **[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
 > - 💻 Need ZygnalBot or help with server management?
 > - 📢 Stay updated on all ZygnalBot-related projects.
+     - https://zygnalbot.com/support/
 
-> - Video On how to request:
->   
->    - https://www.youtube.com/watch?v=uZbo6J__6N4
 
 
 
