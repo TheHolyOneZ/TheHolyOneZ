@@ -36,12 +36,15 @@ Hi! I'm <b>TheHolyOneZ</b>, aka <b>TheZ</b>. I build Discord bots, mod menus, wo
 
 <p align="center">
   <b><a href="https://discord.gg/sgZnXca5ts" target="_blank" style="color:#1e90ff; text-decoration:none;">ZygnalBot</a></b><br>
-  Fully free open-source Discord bot with 90+ cogs and 50+ extensions. Actively maintained and community-friendly.
+  Fully free open-source Discord bot with 90+ cogs and 50+ extensions. Actively maintained and community-friendly.<br>
+  Website: <a href="https://zygnalbot.de" target="_blank" style="color:#1e90ff; text-decoration:none;">zygnalbot.de</a>
 </p>
 
 <p align="center">
   <b><a href="https://discord.gg/Wp9Mf4YfTS" target="_blank" style="color:#1e90ff; text-decoration:none;">TheZ's ModMenus</a></b><br>
-  ModMenus for PEAK, Raft, Hollow Knight, Subnautica, plus the main hub for the SharpMonoInjector 2.7.
+  ModMenus for PEAK, Raft, Hollow Knight, Subnautica, plus the main hub for the SharpMonoInjector 2.7.<br>
+  Website: <a href="https://z-labz.com/mods/" target="_blank" style="color:#1e90ff; text-decoration:none;">z-labz.com/mods/</a>
 </p>
+
 
 
