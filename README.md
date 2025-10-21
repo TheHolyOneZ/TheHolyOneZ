@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theholyonez&show_icons=true&locale=en" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theholyonez&show_icons=true&layout=compact" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theholyonez" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theholyonez&show_icons=true&locale=en&theme=great-gatsby" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theholyonez&show_icons=true&layout=compact&theme=great-gatsby" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theholyonez&theme=great-gatsby" />
 </p>
+
 
 <!-- About Me + Ko-fi in the same row -->
 <table width="100%">
