@@ -34,7 +34,7 @@ Explore the Framework: https://zsync.eu/zdbf
 ## 🤖 Other Projects
 
 ### **ZygnalBot**
-A powerful **free Discord bot** with rich moderation tools, analytics, automation features, and fun utilities — all free to use and tweak. :contentReference[oaicite:1]{index=1}  
+A powerful **free Discord bot** with rich moderation tools, analytics, automation features, and fun utilities — all free to use and tweak. 
 🔗 https://zsync.eu/zygnalbot
 
 ---
