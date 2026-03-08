@@ -59,7 +59,7 @@ A central resource for game mod menus and the latest SharpMonoInjector tooling.
 If you like the tools I build, consider backing me on **Ko‑fi**:
 
 <p align="center">
-  <a href="https://ko‑fi.com/TheHolyOneZ">
+  <a href="[https://ko‑fi.com/TheHolyOneZ](https://ko-fi.com/theholyonez)">
     <img src="https://cdn.ko‑fi.com/cdn/kofi3.png?v=3" alt="Buy me a coffee" height="50" width="210" />
   </a>
 </p>
