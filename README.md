@@ -60,6 +60,6 @@ If you like the tools I build, consider backing me on **Ko‑fi**:
 
 <p align="center">
   <a href="https://ko‑fi.com/TheHolyOneZ">
-    <img src="https://cdn.ko‑fi.com/cdn/kofi3.png?v=3" alt="Buy me a coffee" height="50" width="210" />
+    <img src="https://cdn.ko‑fi.com/cdn/kofi3.png?v=3" alt="[Buy me a coffee](https://ko‑fi.com/TheHolyOneZ)" height="50" width="210" />
   </a>
 </p>
