@@ -10,38 +10,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theholyonez&theme=great-gatsby" alt="Streak Stats" />
 </p>
 
-
-[![ZSync Projects](https://zsync.eu/widget.php)](https://zsync.eu)
-
-
 ---
 
-## 🔧 ZDBF – Discord Bot Framework (Primary)
-
-[**ZDBF**](https://zsync.eu/zdbf) is my *actively maintained* Discord bot framework designed from the ground up for **developers**. It focuses on modular structure, reusable logic, clean event & command handling, and ease of scaling as bots grow.  
-Ideal for creators who want a robust foundation that supports both **slash** and **prefix** command patterns, developer utilities, and extensible architecture.
-
-**Core mindset**
-- Modular command & event architecture
-- Developer‑oriented, reusable components
-- Scalable for all bot sizes
-- Slash + prefix command support
-
-Explore the Framework: https://zsync.eu/zdbf
-
----
-
-## 🤖 Other Projects
-
-### **ZygnalBot**
-A powerful **free Discord bot** with rich moderation tools, analytics, automation features, and fun utilities — all free to use and tweak. 
-🔗 https://zsync.eu/zygnalbot
-
----
-
-### **ModMenus & SharpMonoInjector Hub**
-A central resource for game mod menus and the latest SharpMonoInjector tooling.  
-🔗 https://zlogic.eu/mods
+<p align="center">
+  <a href="https://zsync.eu">
+    <img src="https://zsync.eu/widget.php" alt="ZSync Projects" width="830" />
+  </a>
+</p>
 
 ---
 
@@ -56,10 +31,10 @@ A central resource for game mod menus and the latest SharpMonoInjector tooling.
 
 ## ☕ Support My Work
 
-If you like the tools I build, consider backing me on **Ko‑fi**:
+If you like the tools I build, consider backing me on **Ko-fi**:
 
 <p align="center">
-  <a href="https://ko‑fi.com/TheHolyOneZ">
-    <img src="https://cdn.ko‑fi.com/cdn/kofi3.png?v=3" alt="https://ko‑fi.com/TheHolyOneZ" height="50" width="210" />
+  <a href="https://ko-fi.com/TheHolyOneZ">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50" width="210" />
   </a>
 </p>
