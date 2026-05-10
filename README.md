@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theholyonez&show_icons=true&locale=en&theme=great-gatsby" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theholyonez&show_icons=true&layout=compact&theme=great-gatsby" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theholyonez&theme=great-gatsby" alt="Streak Stats" />
 </p>
 
