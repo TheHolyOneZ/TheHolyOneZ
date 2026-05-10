@@ -11,7 +11,7 @@
 </p>
 
 
-
+[![ZSync Projects](https://zsync.eu/widget.php)](https://zsync.eu)
 
 
 ---
