@@ -5,6 +5,6 @@
 </p>
 <p align="center">
   <a href="https://ko-fi.com/TheHolyOneZ" target="_blank">
-    <img src="https://zsync.eu/kofiwidget12.php" alt="TheHolyOneZ Ko-fi" width="831" />
+    <img src="https://zsync.eu/kofiwidget13.php" alt="TheHolyOneZ Ko-fi" width="831" />
   </a>
 </p>
